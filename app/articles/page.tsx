@@ -1,6 +1,6 @@
 import Link from "next/link";
 
-export default function FirstBlog() {
+export default function FirstArticle() {
   return (
     <div>
       <h1>First Blog</h1>
